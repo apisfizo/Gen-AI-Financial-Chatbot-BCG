@@ -51,14 +51,6 @@ In this simulation, I assumed the role of an **AI Developer/Consultant** tasked 
 
 ---
 
-## 📎 Supporting Files
-
-- 📄 `BCG_completion_certificate.pdf` – Official certification of completion.
-- 📂 `src/` – Core Python scripts for extraction and chatbot logic.
-- 📂 `notebooks/` – Initial analysis and data processing workflows.
-
----
-
 ## 🤝 Let’s Connect
 
 I am a **Software Engineering graduate** passionate about leveraging **AI and Data Science** to build smarter business tools. I am currently honing my skills and preparing for advanced studies in **Applied AI**.
