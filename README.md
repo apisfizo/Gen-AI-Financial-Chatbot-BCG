@@ -1,23 +1,76 @@
-# BCGX GenAI Job Simulation: Financial Analysis Chatbot
+# 🤖 BCGX Generative AI Job Simulation (Forage)
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
-![Generative AI](https://img.shields.io/badge/GenAI-LLM-orange)
-![Financial Analysis](https://img.shields.io/badge/Industry-FinTech-green)
+> Completed: **August 22nd, 2025** > Platform: [Forage](https://www.theforage.com/)
 
-## 📌 Project Overview
-This project was developed as part of the **BCGX GenAI Job Simulation**. The objective was to bridge the gap between complex corporate financial reporting and actionable business intelligence using Generative AI. 
+Welcome to my project based on the **BCGX GenAI Job Simulation**! This experience allowed me to step into the role of a consultant at **BCGX**, where I applied advanced AI concepts to solve complex financial data challenges.
 
-I engineered a pipeline to automate the extraction of key financial metrics and built a conversational AI interface (Chatbot) that allows users to query financial health data using natural language.
+---
+
+## 🚀 Project Overview
+
+In this simulation, I assumed the role of an **AI Developer/Consultant** tasked with transforming how financial data is analyzed. I focused on automating the synthesis of dense corporate reports to provide instant, actionable insights. My responsibilities included:
+
+- **Data Extraction:** Automating the retrieval of key financial metrics from unstructured reports.
+- **Initial Analysis:** Performing trend analysis and identifying year-over-year growth.
+- **GenAI Development:** Building a functional financial chatbot capable of natural language interaction.
+- **Business Intelligence:** Translating raw financial data into strategic summaries for stakeholders.
 
 
 
-## 🛠️ Key Implementation Tasks
-During the simulation, I successfully completed the following practical tasks.
-* **Data Extraction:** Developed scripts to parse and extract initial analysis from unstructured financial documents.
-* **AI Chatbot Development:** Built a functional, AI-powered financial chatbot designed to interpret complex fiscal data.
-* **Business Logic:** Implemented analysis frameworks to identify year-over-year growth, margin trends, and revenue drivers.
+---
 
-## 🚀 Technical Highlights
-* **Automated Workflows:** Replaced manual data retrieval with a streamlined AI-driven extraction process.
-* **Contextual Intelligence:** Leveraged LLM capabilities to provide summarized insights based on specific fiscal periods.
-* **Scalable Design:** Created a modular Python architecture that can be adapted for diverse document-heavy industries.
+## 🛠️ Tools & Technologies
+
+| Tool/Technology | Description |
+|-----------------|-------------|
+| **Python** | The core language used for data processing and AI logic. |
+| **Large Language Models (LLMs)** | Utilized for natural language understanding and financial summarization. |
+| **Data Extraction** | Techniques used to parse and structure data from corporate filings. |
+| **Forage Platform** | Provided the professional framework and task-based simulation. |
+
+---
+
+## 📊 Key Deliverables
+
+### 1. **Automated Data Extraction & Analysis**
+- Developed logic to pull specific KPIs and financial metrics from corporate documents.
+- Conducted initial data cleaning and trend identification to prepare for AI integration.
+
+### 2. **AI-Powered Financial Chatbot**
+- Built a chatbot interface that allows users to query financial reports using natural language.
+- Engineered the bot to recognize fiscal context and provide grounded, accurate responses based on the extracted data.
+
+---
+
+## 🧠 What I Learned
+
+- **Document Intelligence:** How to handle unstructured financial data and turn it into a structured format for AI.
+- **RAG Implementation:** The fundamentals of grounding LLMs in specific datasets to prevent hallucinations.
+- **Consulting Workflow:** How to align technical AI solutions with the high-level business needs of a firm like BCG.
+- **Python for AI:** Strengthened my ability to use Python as a bridge between data engineering and Generative AI.
+
+---
+
+## 📎 Supporting Files
+
+- 📄 `BCG_completion_certificate.pdf` – Official certification of completion.
+- 📂 `src/` – Core Python scripts for extraction and chatbot logic.
+- 📂 `notebooks/` – Initial analysis and data processing workflows.
+
+---
+
+## 🤝 Let’s Connect
+
+I am a **Software Engineering graduate** passionate about leveraging **AI and Data Science** to build smarter business tools. I am currently honing my skills and preparing for advanced studies in **Applied AI**.
+
+🔗 [LinkedIn](https://www.linkedin.com/in/hafizuddin-33619a205)  
+📧 hafizuddinothman11@gmail.com
+
+---
+
+## 🏆 Verification
+- **Candidate:** Muhamad Hafizuddin
+- **Verification Code:** 7E8rMddj4WRk5Z2ya
+- **Issued by:** Forage
+
+> 💡 _This project is a result of a job simulation experience and is not an official project of BCG._
