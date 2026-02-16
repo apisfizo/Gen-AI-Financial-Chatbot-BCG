@@ -27,7 +27,6 @@ In this simulation, I assumed the role of an **AI Developer/Consultant** tasked 
 | **Python** | The core language used for data processing and AI logic. |
 | **Large Language Models (LLMs)** | Utilized for natural language understanding and financial summarization. |
 | **Data Extraction** | Techniques used to parse and structure data from corporate filings. |
-| **Forage Platform** | Provided the professional framework and task-based simulation. |
 
 ---
 
