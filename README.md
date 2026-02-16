@@ -12,9 +12,9 @@ I engineered a pipeline to automate the extraction of key financial metrics and 
 
 
 ## 🛠️ Key Implementation Tasks
-During the simulation, I successfully completed the following practical tasks[cite: 6]:
-* **Data Extraction:** Developed scripts to parse and extract initial analysis from unstructured financial documents[cite: 7].
-* **AI Chatbot Development:** Built a functional, AI-powered financial chatbot designed to interpret complex fiscal data[cite: 7].
+During the simulation, I successfully completed the following practical tasks.
+* **Data Extraction:** Developed scripts to parse and extract initial analysis from unstructured financial documents.
+* **AI Chatbot Development:** Built a functional, AI-powered financial chatbot designed to interpret complex fiscal data.
 * **Business Logic:** Implemented analysis frameworks to identify year-over-year growth, margin trends, and revenue drivers.
 
 ## 🚀 Technical Highlights
