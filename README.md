@@ -1,6 +1,7 @@
 # 🤖 BCGX Generative AI Job Simulation (Forage)
 
-> Completed: **August 22nd, 2025** > Platform: [Forage](https://www.theforage.com/)
+> Completed: **August 22nd, 2025**
+> Platform: [Forage](https://www.theforage.com/)
 
 Welcome to my project based on the **BCGX GenAI Job Simulation**! This experience allowed me to step into the role of a consultant at **BCGX**, where I applied advanced AI concepts to solve complex financial data challenges.
 
