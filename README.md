@@ -1,4 +1,4 @@
-# 🤖 BCGX Generative AI Job Simulation (Forage)
+# BCGX Generative AI Job Simulation (Forage)
 
 > Completed: **August 22nd, 2025**
 > Platform: [Forage](https://www.theforage.com/)
@@ -7,7 +7,7 @@ Welcome to my project based on the **BCGX GenAI Job Simulation**! This experienc
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 In this simulation, I assumed the role of an **AI Developer/Consultant** tasked with transforming how financial data is analyzed. I focused on automating the synthesis of dense corporate reports to provide instant, actionable insights. My responsibilities included:
 
@@ -20,7 +20,7 @@ In this simulation, I assumed the role of an **AI Developer/Consultant** tasked 
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Tool/Technology | Description |
 |-----------------|-------------|
@@ -30,7 +30,7 @@ In this simulation, I assumed the role of an **AI Developer/Consultant** tasked 
 
 ---
 
-## 📊 Key Deliverables
+## Key Deliverables
 
 ### 1. **Automated Data Extraction & Analysis**
 - Developed logic to pull specific KPIs and financial metrics from corporate documents.
@@ -42,7 +42,7 @@ In this simulation, I assumed the role of an **AI Developer/Consultant** tasked 
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - **Document Intelligence:** How to handle unstructured financial data and turn it into a structured format for AI.
 - **RAG Implementation:** The fundamentals of grounding LLMs in specific datasets to prevent hallucinations.
@@ -51,7 +51,7 @@ In this simulation, I assumed the role of an **AI Developer/Consultant** tasked 
 
 ---
 
-## 🤝 Let’s Connect
+## Let’s Connect
 
 I am a **Software Engineering graduate** passionate about leveraging **AI and Data Science** to build smarter business tools. I am currently honing my skills and preparing for advanced studies in **Applied AI**.
 
@@ -60,7 +60,7 @@ I am a **Software Engineering graduate** passionate about leveraging **AI and Da
 
 ---
 
-## 🏆 Verification
+## Verification
 - **Candidate:** Muhamad Hafizuddin
 - **Verification Code:** 7E8rMddj4WRk5Z2ya
 - **Issued by:** Forage
